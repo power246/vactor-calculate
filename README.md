@@ -16,6 +16,9 @@ _学生党，没啥时间优化代码_
 由于这个版本太局限了，就做了v3
 
 # vactor.3
+
+超链接：_https://github.com/power246/vactor-calculate/blob/main/vector.3.py_
+
 "完全版"矢量计算器
 
 可以计算多个矢量的合成
