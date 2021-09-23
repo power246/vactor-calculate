@@ -6,6 +6,9 @@ _学生党，没啥时间优化代码_
 只是因为物理题要按的计算器步骤太多就做了一个这个。。。
 
 # vactor.2
+
+超链接：_https://github.com/power246/vactor-calculate/blob/main/vector.2.py_
+
 简单版的矢量计算器
 
 只能计算 **两个** 矢量相加的最终合成矢量的角度及长度
