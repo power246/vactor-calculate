@@ -1,11 +1,11 @@
-# vactor-calculate
+# vector-calculate
 输入多个矢量后可以输出所有矢量相加之后的新矢量角度及长度
 
 _学生党，没啥时间优化代码_
 
 只是因为物理题要按的计算器步骤太多就做了一个这个。。。
 
-# vactor.2
+# vector.2
 
 超链接：_https://github.com/power246/vactor-calculate/blob/main/vector.2.py_
 
@@ -15,7 +15,7 @@ _学生党，没啥时间优化代码_
 
 由于这个版本太局限了，就做了v3
 
-# vactor.3
+# vector.3
 
 超链接：_https://github.com/power246/vactor-calculate/blob/main/vector.3.py_
 
